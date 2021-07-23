@@ -1,0 +1,13 @@
+.home{
+    background-color: aquamarine;
+    margin: 0;
+}
+
+.w-100 mt-5{
+    box-shadow: 5px;
+}
+.d-flex justify-content-between flex-wrap bg-dark p-4{
+    padding-bottom: -30px;
+
+}
+
